@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "78830fa2bd5e037f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a79f2565e34bf78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0951610ce21cd08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSS Материалы/DSS Материалы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSS Материалы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b410352c344e97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c25ea0419f6dd197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "279c606bf6e67c39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cbc27cf341837e1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6822a30019e7559e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8eedaab309e2ad80",
+    "type": "split",
+    "children": [
+      {
+        "id": "d05085b7f0075c31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008eb778f91ae92c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSS Материалы/DSS Материалы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DSS Материалы"
+            }
+          },
+          {
+            "id": "b299bb7b5393fdfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSS Материалы/DSS Материалы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DSS Материалы"
+            }
+          },
+          {
+            "id": "5be8deacb7eff1a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "548d134371baae48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSS Материалы/DSS Материалы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DSS Материалы"
+            }
+          },
+          {
+            "id": "2eeedf72a62094cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "iconic:Open rulebook": false
+    }
+  },
+  "active": "b0951610ce21cd08",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "DSS Материалы/DSS Материалы.md",
+    "DSS Материалы/DSS_B база знаний/DSS_B база знаний.md",
+    ".obsidian/plugins/iconic/data.json",
+    ".obsidian/plugins/iconic/styles.css",
+    ".obsidian/plugins/iconic/main.js",
+    ".obsidian/plugins/iconic/manifest.json",
+    ".obsidian/plugins/iconic",
+    ".obsidian/plugins/show-hidden-files/styles.css",
+    ".obsidian/plugins/show-hidden-files/main.js",
+    ".obsidian/plugins/show-hidden-files/manifest.json",
+    ".obsidian/plugins/obsidian-custom-attachment-location/styles.css",
+    ".obsidian/plugins/obsidian-custom-attachment-location/manifest.json",
+    "DSS Материалы/.attachments/DSS Материалы/file-20250825162446145.png",
+    "DSS Материалы/.attachments/DSS Материалы/file-20250825162414250.png",
+    "DSS Материалы/attachments/Pasted image 20250825160755.png",
+    "Pasted image 20250825160720.png",
+    "flower.bmp",
+    "flower.bmp.md",
+    "DSS Материалы/attachments/flower.bmp",
+    "DSS.md",
+    "выавыавыавы.md",
+    "sdfdasf.md",
+    "43243242342342342423432.md",
+    "Untitled.canvas"
+  ]
+}
