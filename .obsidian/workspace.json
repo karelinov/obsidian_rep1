@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,9 +187,10 @@
   },
   "active": "b0951610ce21cd08",
   "lastOpenFiles": [
-    "Welcome.md",
-    "DSS Материалы/DSS Материалы.md",
     "DSS Материалы/DSS_B база знаний/DSS_B база знаний.md",
+    "DSS Материалы/DSS Материалы.md",
+    "DSS Материалы/.attachments/DSS Материалы/Untitled Diagram.drawio",
+    "Welcome.md",
     ".obsidian/plugins/iconic/data.json",
     ".obsidian/plugins/iconic/styles.css",
     ".obsidian/plugins/iconic/main.js",
@@ -199,7 +200,6 @@
     ".obsidian/plugins/show-hidden-files/main.js",
     ".obsidian/plugins/show-hidden-files/manifest.json",
     ".obsidian/plugins/obsidian-custom-attachment-location/styles.css",
-    ".obsidian/plugins/obsidian-custom-attachment-location/manifest.json",
     "DSS Материалы/.attachments/DSS Материалы/file-20250825162446145.png",
     "DSS Материалы/.attachments/DSS Материалы/file-20250825162414250.png",
     "DSS Материалы/attachments/Pasted image 20250825160755.png",
