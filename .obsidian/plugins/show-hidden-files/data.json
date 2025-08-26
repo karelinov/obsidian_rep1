@@ -3,7 +3,7 @@
   "language": "",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
-  "showConfigurationFolder": true,
+  "showConfigurationFolder": false,
   "showHiddenFiles": true,
   "showingRules": [
     "+/",

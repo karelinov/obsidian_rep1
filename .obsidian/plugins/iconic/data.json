@@ -3,14 +3,14 @@
   "clickableIcons": "desktop",
   "showAllFileIcons": true,
   "showAllFolderIcons": true,
-  "minimalFolderIcons": true,
+  "minimalFolderIcons": false,
   "showMarkdownTabIcons": true,
   "showTitleIcons": true,
   "showTagPillIcons": true,
-  "showMenuActions": true,
-  "showSuggestionIcons": true,
-  "showQuickSwitcherIcons": true,
-  "showMoveFileIcons": true,
+  "showMenuActions": false,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": false,
+  "showMoveFileIcons": false,
   "showItemName": "desktop",
   "biggerSearchResults": "mobile",
   "maxSearchResults": 50,
@@ -24,7 +24,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": false,
-    "rulePage": "file"
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -33,6 +33,22 @@
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [],
+  "fileRules": [
+    {
+      "id": "uTYBc",
+      "name": "md file rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "md"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file",
+      "color": "blue"
+    }
+  ],
   "folderRules": []
 }

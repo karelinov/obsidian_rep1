@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2a79f2565e34bf78",
+        "id": "346596761428c7b3",
         "type": "tabs",
         "children": [
           {
-            "id": "b0951610ce21cd08",
+            "id": "17ed46fb98eb9d0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSS Материалы/DSS Материалы.md",
+                "file": "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSS Материалы"
+              "title": "DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами"
+            }
+          },
+          {
+            "id": "a42385ebd5111393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSS Задачи/DSS-2 Задача2/DSS-2 Задача2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSS-2 Задача2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dss_db_actions_action_plans/u",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 340.5
   },
   "right": {
     "id": "8eedaab309e2ad80",
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSS Материалы/DSS Материалы.md",
+                "file": "DSS Задачи/DSS-2 Задача2/DSS-2 Задача2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DSS Материалы"
+              "title": "Outline of DSS-2 Задача2"
             }
           },
           {
@@ -166,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,32 +196,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian42-brat:BRAT": false,
       "iconic:Open rulebook": false
     }
   },
-  "active": "b0951610ce21cd08",
+  "active": "a42385ebd5111393",
   "lastOpenFiles": [
-    "DSS Материалы/DSS_B база знаний/DSS_B база знаний.md",
+    "DSS Материалы/Untitled.canvas",
+    "DSS Задачи/DSS-2 Задача2/DSS-2 Задача2.md",
+    "DSS Задачи/DSS-1 Задача1/DSS-1 Задача1.md",
+    "DSS Задачи/DSS-2 Задача2",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.md",
+    "DSS Задачи/DSS-1 Задача1",
     "DSS Материалы/DSS Материалы.md",
-    "DSS Материалы/.attachments/DSS Материалы/Untitled Diagram.drawio",
-    "Welcome.md",
-    ".obsidian/plugins/iconic/data.json",
-    ".obsidian/plugins/iconic/styles.css",
-    ".obsidian/plugins/iconic/main.js",
-    ".obsidian/plugins/iconic/manifest.json",
-    ".obsidian/plugins/iconic",
-    ".obsidian/plugins/show-hidden-files/styles.css",
-    ".obsidian/plugins/show-hidden-files/main.js",
-    ".obsidian/plugins/show-hidden-files/manifest.json",
-    ".obsidian/plugins/obsidian-custom-attachment-location/styles.css",
+    "DSS Задачи",
+    "DSS Материалы/DSS Материалы.html",
+    "DSS Материалы/DSS_B база знаний/DSS_B база знаний.md",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/.attachments/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами/file-20250826133804534.png",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/.attachments",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/.attachments/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.attachments/file-20250826133617666.png",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.attachments",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/.attachments/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами/file-20250826132037507.png",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы.md",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы",
+    "DSS Материалы/DSS_D Модель данных",
     "DSS Материалы/.attachments/DSS Материалы/file-20250825162446145.png",
+    "DSS Материалы/.attachments/DSS Материалы/file-20250825162446145 1.png",
+    "DSS Материалы/.attachments/DSS Материалы/Карта нот и октав 2.jpg",
+    "DSS Материалы/.attachments/DSS Материалы/flower.bmp",
+    "Welcome.md",
     "DSS Материалы/.attachments/DSS Материалы/file-20250825162414250.png",
     "DSS Материалы/attachments/Pasted image 20250825160755.png",
     "Pasted image 20250825160720.png",
-    "flower.bmp",
     "flower.bmp.md",
-    "DSS Материалы/attachments/flower.bmp",
     "DSS.md",
     "выавыавыавы.md",
     "sdfdasf.md",
