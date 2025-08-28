@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.md",
+                "file": "DSS Задачи/DSS-4 Задача4/DSS-4 Задача4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами"
-            }
-          },
-          {
-            "id": "a42385ebd5111393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSS Задачи/DSS-2 Задача2/DSS-2 Задача2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DSS-2 Задача2"
+              "title": "DSS-4 Задача4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dss_db_actions_action_plans/u",
+                "query": "tag:#Заголовок",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 200
   },
   "right": {
     "id": "8eedaab309e2ad80",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSS Материалы/DSS Материалы.md",
+                "file": "DSS Задачи/DSS-4 Задача4/DSS-4 Задача4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,22 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DSS Материалы"
+              "title": "Backlinks for DSS-4 Задача4"
+            }
+          },
+          {
+            "id": "548d134371baae48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSS Задачи/DSS-4 Задача4/DSS-4 Задача4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DSS-4 Задача4"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSS Материалы/DSS Материалы.md",
+                "file": "DSS Задачи/DSS-4 Задача4/DSS-4 Задача4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DSS Материалы"
+              "title": "Outgoing links from DSS-4 Задача4"
             }
           },
           {
@@ -145,25 +145,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "action_plans"
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "548d134371baae48",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "DSS Задачи/DSS-2 Задача2/DSS-2 Задача2.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of DSS-2 Задача2"
             }
           },
           {
@@ -179,13 +164,24 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "ea42f0257ebc9dd4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,31 +192,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "iconic:Open rulebook": false
+      "iconic:Open rulebook": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a42385ebd5111393",
+  "active": "17ed46fb98eb9d0c",
   "lastOpenFiles": [
-    "DSS Материалы/Untitled.canvas",
+    "DSS Задачи/DSS-4 Задача4/DSS-4 Задача4 материал2/DSS-4 Задача4 материал2.md",
+    "DSS Задачи/DSS-4 Задача4/DSS-4 Задача4.md",
+    "DSS Материалы/DSS Материалы.md",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.md",
+    "DSS Задачи/DSS-4 Задача4/DSS-4 Задача4 материал1/DSS-4 Задача4 материал1.md",
+    "DSS Задачи/DSS-4 Задача4/DSS-4 Задача4 материал2",
+    "DSS Задачи/DSS-4 Задача4/DSS-4 Задача4 материал1",
+    "DSS Материалы/DSS_B база знаний/DSS_B база знаний.md",
     "DSS Задачи/DSS-2 Задача2/DSS-2 Задача2.md",
     "DSS Задачи/DSS-1 Задача1/DSS-1 Задача1.md",
+    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.html",
+    "DSS Задачи/DSS-3 Задача3/DSS-3 Задача3.md",
+    "DSS Задачи/DSS-4 Задача4",
+    "DSS Задачи/DSS-3 Задача3",
+    "DSS Материалы/Untitled.canvas",
     "DSS Задачи/DSS-2 Задача2",
-    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.md",
     "DSS Задачи/DSS-1 Задача1",
-    "DSS Материалы/DSS Материалы.md",
     "DSS Задачи",
     "DSS Материалы/DSS Материалы.html",
-    "DSS Материалы/DSS_B база знаний/DSS_B база знаний.md",
     "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/.attachments/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами/file-20250826133804534.png",
     "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/.attachments",
-    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/.attachments/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами",
     "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.attachments/file-20250826133617666.png",
-    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами.attachments",
     "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions/.attachments/DSS_DB_ACTIONS ACTION_PLANS Планы действий с устройствами/file-20250826132037507.png",
     "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы.md",
-    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы/DSS_DB ACTIONS БД actions",
-    "DSS Материалы/DSS_D Модель данных/DSS_DB БД Системы",
-    "DSS Материалы/DSS_D Модель данных",
     "DSS Материалы/.attachments/DSS Материалы/file-20250825162446145.png",
     "DSS Материалы/.attachments/DSS Материалы/file-20250825162446145 1.png",
     "DSS Материалы/.attachments/DSS Материалы/Карта нот и октав 2.jpg",
