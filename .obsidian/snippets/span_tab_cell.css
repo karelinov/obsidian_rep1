@@ -1,17 +1,12 @@
-#span_tab_cell {
-	white-space: pre-wrap;
-	min-width: min-content;
-    text-wrap : wrap;
+/*.markdown-source-view.mod-cm6 .cm-table-widget .table-cell_wrapper*/
+div.table-cell_wrapper {
+    white-space: pre-wrap;
+    max-width: 150px;
+    color: red;
 }
 
-.markdown-source-view.mod-cm6 .cm-table-widget .table-cell_wrapper {
-    white-space: pre-wrap !important;
-    max-width: 50;
-    text-wrap : wrap;
-}
-
-td {
-    white-space: pre-wrap !important;
-    max-width: 50;
-    text-wrap : wrap;
+.cm_active {
+    white-space: pre-wrap;
+    max-width: 150px;
+    color: red;
 }

@@ -50,3 +50,9 @@ debugInConsole: false # Print debug info in Obsidian console
 
 # Заголовок11
 
+```jira-issue
+DSS2-288
+```
+
+:monkey:
+
